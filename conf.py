@@ -56,6 +56,7 @@ extlinks = {'codedir': ('https://github.com/' + html_context["github_user"] + '/
             'rosdocs': ('http://docs.ros.org/' + ros_distro + '/api/%s', ''),
             'moveit_core': ('http://docs.ros.org/' + ros_distro + '/api/moveit_core/html/classmoveit_1_1core_1_1%s.html', ''),
             'planning_scene': ('http://docs.ros.org/' + ros_distro + '/api/moveit_core/html/classplanning__scene_1_1%s.html', ''),
+            'moveit_python': ('file:///home/peter/projects/moveit_ws/doc/moveit_core/html/python/_autosummary/moveit.%s.html', ''),
             'planning_scene_monitor': ('http://docs.ros.org/' + ros_distro + '/api/moveit_ros_planning/html/classplanning__scene__monitor_1_1%s.html', ''),
             'collision_detection_struct': ('http://docs.ros.org/' + ros_distro + '/api/moveit_core/html/structcollision__detection_1_1%s.html', ''),
             'collision_detection_class': ('http://docs.ros.org/' + ros_distro + '/api/moveit_core/html/classcollision__detection_1_1%s.html', ''),
